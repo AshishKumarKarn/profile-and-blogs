@@ -9,7 +9,7 @@ import Contact from './Components/Contact/Contact';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={window.location.pathname || ''}>
     <Switch>
     <Route exact path="/" component={Home}/>
     <Route path="/profile" component={Profile}/>
