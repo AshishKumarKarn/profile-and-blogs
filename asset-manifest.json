@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/profile-and-blogs/static/css/main.719f8b8d.chunk.css",
-    "main.js": "/profile-and-blogs/static/js/main.dec71d93.chunk.js",
-    "main.js.map": "/profile-and-blogs/static/js/main.dec71d93.chunk.js.map",
+    "main.css": "/profile-and-blogs/static/css/main.254e5070.chunk.css",
+    "main.js": "/profile-and-blogs/static/js/main.a58987f2.chunk.js",
+    "main.js.map": "/profile-and-blogs/static/js/main.a58987f2.chunk.js.map",
     "runtime-main.js": "/profile-and-blogs/static/js/runtime-main.a0434ff9.js",
     "runtime-main.js.map": "/profile-and-blogs/static/js/runtime-main.a0434ff9.js.map",
-    "static/js/2.919fadc1.chunk.js": "/profile-and-blogs/static/js/2.919fadc1.chunk.js",
-    "static/js/2.919fadc1.chunk.js.map": "/profile-and-blogs/static/js/2.919fadc1.chunk.js.map",
+    "static/js/2.d4032222.chunk.js": "/profile-and-blogs/static/js/2.d4032222.chunk.js",
+    "static/js/2.d4032222.chunk.js.map": "/profile-and-blogs/static/js/2.d4032222.chunk.js.map",
     "index.html": "/profile-and-blogs/index.html",
-    "precache-manifest.fc6e93b271ebdc05712671cbde1f0cdb.js": "/profile-and-blogs/precache-manifest.fc6e93b271ebdc05712671cbde1f0cdb.js",
+    "precache-manifest.f875d2d58d4cbd4c66ff3e4452f9996f.js": "/profile-and-blogs/precache-manifest.f875d2d58d4cbd4c66ff3e4452f9996f.js",
     "service-worker.js": "/profile-and-blogs/service-worker.js",
-    "static/css/main.719f8b8d.chunk.css.map": "/profile-and-blogs/static/css/main.719f8b8d.chunk.css.map",
-    "static/js/2.919fadc1.chunk.js.LICENSE.txt": "/profile-and-blogs/static/js/2.919fadc1.chunk.js.LICENSE.txt",
+    "static/css/main.254e5070.chunk.css.map": "/profile-and-blogs/static/css/main.254e5070.chunk.css.map",
+    "static/js/2.d4032222.chunk.js.LICENSE.txt": "/profile-and-blogs/static/js/2.d4032222.chunk.js.LICENSE.txt",
     "static/media/index.css": "/profile-and-blogs/static/media/dark_earth.1d801dd5.jpg",
-    "static/media/Home.css": "/profile-and-blogs/static/media/dark_laptop.f6b5379e.jpg",
+    "static/media/Home.css": "/profile-and-blogs/static/media/dark_pen.481d587e.jpg",
+    "static/media/Blog.css": "/profile-and-blogs/static/media/dark_women.c51f1d0a.jpg",
     "static/media/logo.svg": "/profile-and-blogs/static/media/logo.f5acdf2c.svg",
+    "static/media/Profile.css": "/profile-and-blogs/static/media/myself.6b470dd5.jpg",
     "static/media/Contact.css": "/profile-and-blogs/static/media/white_connect.5699c5c8.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a0434ff9.js",
-    "static/js/2.919fadc1.chunk.js",
-    "static/css/main.719f8b8d.chunk.css",
-    "static/js/main.dec71d93.chunk.js"
+    "static/js/2.d4032222.chunk.js",
+    "static/css/main.254e5070.chunk.css",
+    "static/js/main.a58987f2.chunk.js"
   ]
 }
