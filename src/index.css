@@ -1,18 +1,4 @@
 body {
-
-  background: linear-gradient(90deg, #d7e0e9, #d5dbd3, #c3cfd3, #c4dfd6);
-  background-size: 400% 400%;
-  animation: gradient 5s ease infinite;
-}
-
-@keyframes gradient {
-  0% {
-      background-position: 0% 50%;
-  }
-  50% {
-      background-position: 100% 50%;
-  }
-  100% {
-      background-position: 0% 50%;
-  }
+background-image:url("./static/dark_earth.jpg");
+background-size: cover;/* Resize the background image to cover the entire container */
 }

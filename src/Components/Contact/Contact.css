@@ -1,7 +1,24 @@
 a{
     text-decoration: none;
+}
 
-}
-.contentinner{
-    width: 115%;
-}
+.content-contact {
+  background-image:url("../../static/white_connect.jpg");
+  background-size: cover;/* Resize the background image to cover the entire container */
+  color:black;
+  background-color: #afa8a8; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-repeat: no-repeat;
+  padding: 1em;
+  border-radius: 20px;
+ }
+
+ .logo{
+   width:3%;
+   margin:35px 30px 0px 20px;
+   margin-left:0px;
+ }
+ .social{
+
+   display: inline-block;
+ }
