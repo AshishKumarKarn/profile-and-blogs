@@ -2,12 +2,13 @@ import React, { useState, useEffect } from 'react';
 import Header from '../Header/Header';
 import logo from '../../static/logo.svg';
 import './Home.css';
-function Home() {
+export default function Home() {
     const [content, setContent] = useState(null);
+    const [careerPath, setCareerPath] = useState(null);
     const [error,setError] = useState(null);
 
   useEffect(() => {
-      if(content==null){
+   
       let url="https://raw.githubusercontent.com/AshishKumarKarn/json-contents-for-projects/master/portfolio.json";
       fetch(url)
       .then(response => response.json())
@@ -15,22 +16,28 @@ function Home() {
       .catch(error => {
           setError(error.message);
       });
-    }
   });
 
   const buildHomeContent = (data) => {
     setContent(data.home);
+    setCareerPath(data.careerPath);
   }
 
 return (<>
 <Header/>
 <div className="content">
-    <div className="content-home">
+    <div className="content-home-1">
+    <div className="content-home-1-text">
     {content || error || <img src={logo} className="App-logo" alt="logo"/>}
+    </div>
+    </div>
+    <div className="content-home-2">
+      <div className="content-home-2-text">
+    {careerPath || error || <img src={logo} className="App-logo" alt="logo"/>}
+    </div>
     </div>
 
 </div>
 
 </>);
 }
-export default Home;

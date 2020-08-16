@@ -10,10 +10,10 @@
     position: relative;
 }
 /* Change similar content-component for each component for different images and colors */
-.content-home-1 {
+.content-profile-1 {
   text-align: left;
   text-decoration-style: solid;
-  background-image:url("../../static/dark_laptop.jpg");
+  background-image:url("../../static/myself.jpg");
   background-position: center top;
   background-size: cover;/* Resize the background image to cover the entire container */
   background-color: #cccccc; /* Used if the image is unavailable */
@@ -21,25 +21,4 @@
   background-repeat: no-repeat;
   padding: 1em;
   border-radius: 20px;
-}
-.content-home-1-text{
-  padding: 3%;
-}
-
-.content-home-2 {
-  margin-top: 20px;
-  align-self: center;
-  background-image:url("../../static/dark_pen.jpg");
-  color:#00ec5b;
-  background-position: center top;
-  background-size: cover;/* Resize the background image to cover the entire container */
-  background-color: #cccccc; /* Used if the image is unavailable */
-  height: 500px; /* You must set a specified height */
-  background-repeat: no-repeat;
-  padding: 1em;
-  border-radius: 20px;
-}
-.content-home-2-text{
-  color:white;
-  padding: 3%;
 }

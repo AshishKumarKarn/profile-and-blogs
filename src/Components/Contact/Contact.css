@@ -4,8 +4,9 @@ a{
 
 .content-contact {
   background-image:url("../../static/white_connect.jpg");
+  background-position: center top;
   background-size: cover;/* Resize the background image to cover the entire container */
-  color:black;
+  color:#074416;
   background-color: #afa8a8; /* Used if the image is unavailable */
   height: 500px; /* You must set a specified height */
   background-repeat: no-repeat;
