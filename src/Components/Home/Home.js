@@ -28,11 +28,13 @@ return (<>
 <div className="content">
     <div className="content-home-1">
     <div className="content-home-1-text">
+    <h2>Welcome</h2>
     {content || error || <img src={logo} className="App-logo" alt="logo"/>}
     </div>
     </div>
     <div className="content-home-2">
       <div className="content-home-2-text">
+      <h2>Career Walkthrough</h2>
     {careerPath || error || <img src={logo} className="App-logo" alt="logo"/>}
     </div>
     </div>

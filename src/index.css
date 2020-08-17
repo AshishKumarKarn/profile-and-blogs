@@ -1,6 +1,6 @@
 body {
     font-family: "Lato",sans-serif;
-background:url("./static/dark_earth.jpg") no-repeat center fixed;
-background-size: cover;/* Resize the background image to cover the entire container */
-color: #93fd90;
+    background:url("./static/dark_earth.jpg") no-repeat center fixed;
+    background-size: cover;/* Resize the background image to cover the entire container */
+    color: #93fd90;
 }

@@ -7,10 +7,10 @@ export default function Header() {
     const [bgcolor,setBgcolor] = useState(null);
     
     const listenScrollEvent = e => {
-        if (window.scrollY > 200) {
+        if (window.scrollY > 20) {
           setBgcolor('#252b29e3');
      }else{
-        setBgcolor(null);
+          setBgcolor(null);
      }
     };
     useEffect(() => {

@@ -8,12 +8,13 @@
     width: 100%;
     z-index: 100;
     top: 0px;
+    left: 0px;
 }
 
 .navlink {
     margin:1px;
     margin-bottom: 5px;
-    padding: 10px;
+    padding: 6px;
     font-size: 15px;
     color: rgb(139, 243, 163);
     text-decoration: none;
