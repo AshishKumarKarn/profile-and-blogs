@@ -30,6 +30,7 @@
   margin-top: 100px;
   align-self: center;
   background-image:url("../../static/dark_pen.jpg");
+
   color:#00ec5b;
   background-position: center top;
   background-size: cover;/* Resize the background image to cover the entire container */
@@ -43,3 +44,18 @@
   color:white;
   padding: 2%;
 }
+
+@media (max-width: 1000px) {
+.content-home-2{
+    font-size:smaller;
+    height:auto;
+
+ }
+}
+
+@media (max-width: 1000px) {
+ .content-home-1{
+     font-size:smaller;
+     height:auto;
+  }
+ }
