@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb8ea369f2134b05a4e62b10aa89c4c9",
+    "revision": "6b7e2b07454ad33176c50fec6b3ec387",
     "url": "/profile-and-blogs/index.html"
   },
   {
-    "revision": "7b7608d47000e9a4326a",
-    "url": "/profile-and-blogs/static/css/main.112aeedd.chunk.css"
+    "revision": "d86f6c3061e0e33bfc93",
+    "url": "/profile-and-blogs/static/css/main.6dd87003.chunk.css"
   },
   {
     "revision": "d718df86d5ba30a8eb8e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/profile-and-blogs/static/js/2.d4032222.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b7608d47000e9a4326a",
+    "revision": "d86f6c3061e0e33bfc93",
     "url": "/profile-and-blogs/static/js/main.cc0ce4e4.chunk.js"
   },
   {
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1d801dd5a6a5e44b7503e433b3a540b5",
     "url": "/profile-and-blogs/static/media/dark_earth.1d801dd5.jpg"
-  },
-  {
-    "revision": "f6b5379e9738fcfb45fbb39de814f9c1",
-    "url": "/profile-and-blogs/static/media/dark_laptop.f6b5379e.jpg"
   },
   {
     "revision": "481d587ed2c2353b138f44b6d7e282c3",
@@ -50,5 +46,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5699c5c8adfc59c7e877fbcb0224b2ec",
     "url": "/profile-and-blogs/static/media/white_connect.5699c5c8.jpg"
+  },
+  {
+    "revision": "ecadf2289610d71c7a2e69520b58463c",
+    "url": "/profile-and-blogs/static/media/white_creative.ecadf228.jpg"
   }
 ]);
