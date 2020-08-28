@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/profile-and-blogs/static/css/main.6dd87003.chunk.css",
-    "main.js": "/profile-and-blogs/static/js/main.cc0ce4e4.chunk.js",
-    "main.js.map": "/profile-and-blogs/static/js/main.cc0ce4e4.chunk.js.map",
+    "main.css": "/profile-and-blogs/static/css/main.041901ff.chunk.css",
+    "main.js": "/profile-and-blogs/static/js/main.da791930.chunk.js",
+    "main.js.map": "/profile-and-blogs/static/js/main.da791930.chunk.js.map",
     "runtime-main.js": "/profile-and-blogs/static/js/runtime-main.a0434ff9.js",
     "runtime-main.js.map": "/profile-and-blogs/static/js/runtime-main.a0434ff9.js.map",
     "static/js/2.d4032222.chunk.js": "/profile-and-blogs/static/js/2.d4032222.chunk.js",
     "static/js/2.d4032222.chunk.js.map": "/profile-and-blogs/static/js/2.d4032222.chunk.js.map",
     "index.html": "/profile-and-blogs/index.html",
-    "precache-manifest.f8ae3244752f1faf9fe63067c368f7b6.js": "/profile-and-blogs/precache-manifest.f8ae3244752f1faf9fe63067c368f7b6.js",
+    "precache-manifest.9f1283023ebf3f071e05d60022295b5c.js": "/profile-and-blogs/precache-manifest.9f1283023ebf3f071e05d60022295b5c.js",
     "service-worker.js": "/profile-and-blogs/service-worker.js",
-    "static/css/main.6dd87003.chunk.css.map": "/profile-and-blogs/static/css/main.6dd87003.chunk.css.map",
+    "static/css/main.041901ff.chunk.css.map": "/profile-and-blogs/static/css/main.041901ff.chunk.css.map",
     "static/js/2.d4032222.chunk.js.LICENSE.txt": "/profile-and-blogs/static/js/2.d4032222.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/profile-and-blogs/static/media/dark_pen.481d587e.jpg",
     "static/media/index.css": "/profile-and-blogs/static/media/dark_earth.1d801dd5.jpg",
-    "static/media/Home.css": "/profile-and-blogs/static/media/white_creative.ecadf228.jpg",
     "static/media/Blog.css": "/profile-and-blogs/static/media/dark_women.c51f1d0a.jpg",
     "static/media/logo.svg": "/profile-and-blogs/static/media/logo.f5acdf2c.svg",
     "static/media/Profile.css": "/profile-and-blogs/static/media/myself.6b470dd5.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.a0434ff9.js",
     "static/js/2.d4032222.chunk.js",
-    "static/css/main.6dd87003.chunk.css",
-    "static/js/main.cc0ce4e4.chunk.js"
+    "static/css/main.041901ff.chunk.css",
+    "static/js/main.da791930.chunk.js"
   ]
 }
