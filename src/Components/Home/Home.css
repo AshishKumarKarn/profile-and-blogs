@@ -2,7 +2,7 @@
 .content-home-1 {
   text-align: left;
   text-decoration-style: solid;
-  background-image:url("../../static/white_creative.jpg");
+  background-image:url("../../static/blue_guy.jpg");
   background-position: center top;
   background-size: cover;/* Resize the background image to cover the entire container */
   background-color: #cccccc; /* Used if the image is unavailable */
@@ -12,7 +12,7 @@
   border-radius: 20px;
 }
 .content-home-1-text{
-  color: rgb(31, 0, 0);
+
   margin-top:-15px;
   padding: 2%;
 }
