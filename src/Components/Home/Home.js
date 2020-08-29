@@ -16,7 +16,7 @@ export default function Home() {
       .catch(error => {
           setError(error.message);
       });
-  });
+  },[]);
 
   const buildHomeContent = (data) => {
     setContent(data.home);
