@@ -16,9 +16,9 @@ Struts 1.x, Struts 2.x, Spring MVC, Spring Data, SpringBoot, Dropwizard, Javascr
 Have good exposure to multi-threading and reactive programming. Love to play with Data structure and algorithms.
 Active on Coding Platforms like HackerEarth, Tech-Gig, etc with 98+ percentile.
 </p>
-<a href="https://www.hackerearth.com/@ashishkumkarn">HackerEarth</a>
+<a href="https://www.hackerearth.com/@ashishkumkarn">&#xf08e; HackerEarth</a>
 <br/>
-<a href="https://www.techgig.com/ashishkarn4">TechGig</a>
+<a href="https://www.techgig.com/ashishkarn4">&#xf08e; TechGig</a>
 
 </div>
 </div>
