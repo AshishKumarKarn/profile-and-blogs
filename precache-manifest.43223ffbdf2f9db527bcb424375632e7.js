@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1cfca9792f07298788152214b4b7aad4",
+    "revision": "78396947555ac9e282c42f9c10fb9ef5",
     "url": "/profile-and-blogs/index.html"
   },
   {
-    "revision": "c47613206d02527a2dde",
-    "url": "/profile-and-blogs/static/css/main.34559440.chunk.css"
+    "revision": "5cab2d6584f0e149321c",
+    "url": "/profile-and-blogs/static/css/main.3f6e4e24.chunk.css"
   },
   {
-    "revision": "d718df86d5ba30a8eb8e",
-    "url": "/profile-and-blogs/static/js/2.d4032222.chunk.js"
+    "revision": "696f661a40247a7e5623",
+    "url": "/profile-and-blogs/static/js/2.a51c5e32.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/profile-and-blogs/static/js/2.d4032222.chunk.js.LICENSE.txt"
+    "url": "/profile-and-blogs/static/js/2.a51c5e32.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c47613206d02527a2dde",
-    "url": "/profile-and-blogs/static/js/main.d9994168.chunk.js"
+    "revision": "5cab2d6584f0e149321c",
+    "url": "/profile-and-blogs/static/js/main.fe8014ea.chunk.js"
   },
   {
     "revision": "98547e501549ff74380b",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/profile-and-blogs/static/media/dark_women.f4082c3a.jpg"
   },
   {
-    "revision": "f5acdf2cb72a34caa9492a6663cd82ba",
-    "url": "/profile-and-blogs/static/media/logo.f5acdf2c.svg"
+    "revision": "a75a5f095bf3a1155c66d012b647ca4c",
+    "url": "/profile-and-blogs/static/media/logo.a75a5f09.svg"
   },
   {
     "revision": "6b470dd5cdec138e31ee9e1000ac6aff",
