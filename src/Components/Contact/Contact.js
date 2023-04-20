@@ -8,7 +8,7 @@ return (<>
 <div className="content" >
     {/* {to avoid grid effect, added width explicity} */}
 <div className="content-contact">
-<h3>Contact Details:</h3>
+<h2>Contact Details:</h2>
 &#9993; E-mail:      ashish.karn@outlook.com<br/>
 <div className="social">
 <a href="https://www.linkedin.com/in/ashish-karn-2626b034/">
