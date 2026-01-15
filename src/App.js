@@ -12,9 +12,9 @@ function App() {
   const getBasePath = () => {
     const path = window.location.pathname;
     if(path.endsWith('/profile') || path.endsWith('/blog') || path.endsWith('/contact')) {
-      return path.replace(/(\/profile|\/blog|\/contact)$/, '');
+      return path.substring(0, path.lastIndexOf('/'));
     }
-    return path;
+    return '';
   }
 
 console.log(window.location.pathname);
