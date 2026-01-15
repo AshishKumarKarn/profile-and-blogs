@@ -14,7 +14,7 @@ function App() {
     if(path.endsWith('/profile') || path.endsWith('/blog') || path.endsWith('/contact')) {
       return path.substring(0, path.lastIndexOf('/'));
     }
-    return path;
+    return '';
   }
 
 console.log(window.location.pathname);
