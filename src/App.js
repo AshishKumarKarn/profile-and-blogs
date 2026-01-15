@@ -9,17 +9,17 @@ import NotFound from './Components/NotFound/NotFound';
 
 
 function App() {
-
-console.log(window.location.pathname);
+  // Use PUBLIC_URL as the basename so the app works when served from GitHub Pages
+  // (PUBLIC_URL is set from the "homepage" field in package.json by create-react-app)
   return (
-    <BrowserRouter basename={window.location.pathname || ''}>
-    <Switch>
-    <Route exact path="/" component={Home}/>
-    <Route exact path="/profile" component={Profile}/>
-    <Route exact path="/blog" component={Blog}/>
-    <Route exact path="/contact" component={Contact}/>
-    <Route component={NotFound} />
-    </Switch>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route exact path="/profile" component={Profile} />
+        <Route exact path="/blog" component={Blog} />
+        <Route exact path="/contact" component={Contact} />
+        <Route component={NotFound} />
+      </Switch>
     </BrowserRouter>
   );
 }
