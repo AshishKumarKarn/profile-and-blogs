@@ -9,17 +9,10 @@ import NotFound from './Components/NotFound/NotFound';
 
 
 function App() {
-  const getBasePath = () => {
-    const path = window.location.pathname;
-    if(path.endsWith('/profile') || path.endsWith('/blog') || path.endsWith('/contact')) {
-      return path.replace(/(\/profile|\/blog|\/contact)$/, '');
-    }
-    return path;
-  }
 
 console.log(window.location.pathname);
   return (
-    <BrowserRouter basename={getBasePath()}>
+    <BrowserRouter basename={window.location.pathname || ''}>
     <Switch>
     <Route exact path="/" component={Home}/>
     <Route exact path="/profile" component={Profile}/>
