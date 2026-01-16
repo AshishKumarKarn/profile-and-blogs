@@ -9,6 +9,7 @@ export default function Home() {
     const [careerPathPara3, setCareerPathPara3] = useState(null);
     const [careerPathPara4, setCareerPathPara4] = useState(null);
     const [careerPathPara5, setCareerPathPara5] = useState(null);
+    const [careerPathPara6, setCareerPathPara6] = useState(null);
     const [error,setError] = useState(null);
 
   useEffect(() => {
@@ -29,6 +30,7 @@ export default function Home() {
     setCareerPathPara3(data.careerPath3);
     setCareerPathPara4(data.careerPath4);
     setCareerPathPara5(data.careerPath5);
+    setCareerPathPara5(data.careerPath6);
   }
 
 return (<>
@@ -52,6 +54,8 @@ return (<>
     {careerPathPara4 || error || <img src={logo} className="App-logo" alt="logo"/>}
      <br/><br/>
     {careerPathPara5 || error || <img src={logo} className="App-logo" alt="logo"/>}
+    <br/><br/>
+    {careerPathPara6 || error || <img src={logo} className="App-logo" alt="logo"/>}
     </div>
     </div>
 
