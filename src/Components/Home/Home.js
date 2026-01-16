@@ -30,7 +30,7 @@ export default function Home() {
     setCareerPathPara3(data.careerPath3);
     setCareerPathPara4(data.careerPath4);
     setCareerPathPara5(data.careerPath5);
-    setCareerPathPara5(data.careerPath6);
+    setCareerPathPara6(data.careerPath6);
   }
 
 return (<>
