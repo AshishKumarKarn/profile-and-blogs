@@ -9,15 +9,16 @@ return (<div>
 <div className="content-profile-1">
 <h2>Proﬁle</h2>
 <p>
-I am a skilled IT professional with extensive experience in web development, currently working with BNY Mellon, utilizing the latest technologies and Agile methodology.
+I am a Senior Backend / Distributed Systems Engineer with 10+ years of experience building high-availability, low-latency platforms in the financial services domain. I am currently working at Edelman Financial Engines, where I design and evolve resilient systems supporting mission-critical investment and advisory workflows.
 <br/>
-With over 8.5 years of experience as a full stack developer, I have a strong background in Java 7, 8, 11, and 20, along with expertise in J2EE, Servlets, Struts 1.x and 2.x, Spring MVC, Spring Data, SpringBoot, Dropwizard, Javascript, React JS, Angular JS, Angular, HTML, CSS, and more. My proficiency in multi-threading and building highly scalable, resilient systems enables me to deliver efficient solutions.
+My core expertise spans Java (7–21), JVM internals, concurrency, and microservice architecture using Spring Boot, Kafka, and event-driven design. I have led modernization of legacy J2EE platforms (Servlets, Struts, EJB) into scalable, cloud-ready systems with a strong focus on performance, fault tolerance, and operational excellence. I also bring strong end-to-end understanding through hands-on experience with React and Angular, enabling effective API design and close collaboration with UI and product teams.
 <br/>
-I am also an enthusiastic learner of data structures, algorithms and reactive programming and maintain an active presence on various coding platforms such as HackerEarth and Tech-Gig, with an AIR of 627.</p>
+I have built and operated high-throughput transaction and streaming platforms across global financial institutions, applying advanced multithreading, low-latency design, and data-structure-driven optimizations. I actively sharpen my problem-solving skills through competitive programming and hold an All India Rank of 627 on TechGig.
+</p>
+
 <a href="https://www.hackerearth.com/@ashishkumkarn">&#xf08e; HackerEarth</a>
 <br/>
 <a href="https://www.techgig.com/ashishkarn4">&#xf08e; TechGig</a>
-
 </div>
 </div>
 </div>);
