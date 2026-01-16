@@ -1,6 +1,53 @@
-body {
-    font-family: "Lato",sans-serif;
-    background:url("./static/dark_earth.jpg") no-repeat center fixed;
-    background-size: cover;/* Resize the background image to cover the entire container */
-    color: #93fd90;
+/* Import a modern system font (Inter) for a cleaner, more professional look */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+:root {
+    --bg-color: #0f1724; /* deep navy */
+    --bg-accent: rgba(10, 25, 47, 0.55); /* overlay */
+    --text-color: #e6eef9; /* soft off-white */
+    --muted: #9fb2d6;
+    --accent: #4fb6ff; /* professional blue accent */
+    --max-width: 980px;
 }
+
+html, body, #root {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background-color: var(--bg-color);
+    /* Keep the existing image if present, but add a dark overlay for readability */
+    background-image: linear-gradient(var(--bg-accent), var(--bg-accent)), url("./static/dark_earth.jpg");
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: var(--text-color);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.6;
+    -webkit-text-size-adjust: 100%;
+}
+
+/* Utility container to center content and limit line length */
+.container {
+    /* Make containers fluid by default so content spans the device width
+         while keeping inner padding for comfortable reading. Use
+         .container--centered to constrain content when needed. */
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+.container--centered {
+    max-width: var(--max-width);
+    margin: 0 auto;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
