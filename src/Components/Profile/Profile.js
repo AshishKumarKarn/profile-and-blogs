@@ -15,7 +15,8 @@ My core expertise spans Java (7–21), JVM internals, concurrency, and microserv
 <br/>
 I have built and operated high-throughput transaction and streaming platforms across global financial institutions, applying advanced multithreading, low-latency design, and data-structure-driven optimizations. I actively sharpen my problem-solving skills through competitive programming and hold an All India Rank of 627 on TechGig.
 </p>
-
+<a href="https://leetcode.com/u/karnashish/">&#xf08e; Leetcode</a>
+<br/>
 <a href="https://www.hackerearth.com/@ashishkumkarn">&#xf08e; HackerEarth</a>
 <br/>
 <a href="https://www.techgig.com/ashishkarn4">&#xf08e; TechGig</a>
